@@ -1,0 +1,6 @@
+[book]
+authors = ["ruitianzhong"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Notes on Deep Learning System"
